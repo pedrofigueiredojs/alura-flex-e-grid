@@ -2,5 +2,5 @@
 
 ## Links para teste
 
-* https://alura-flex-e-grid.vercel.app/
-* https://pedrofigueiredojs.github.io/alura-flex-e-grid/
+* [Vercel](https://alura-flex-e-grid.vercel.app/)
+* [Github Pages](https://pedrofigueiredojs.github.io/alura-flex-e-grid/)
